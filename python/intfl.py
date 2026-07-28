@@ -1,0 +1,23 @@
+#n=1 && 3.14
+#print(type(n))
+#print(3**2)
+#print(3*(2+1))
+"""n=1
+n%=10
+print(n)
+print(abs(-3))
+print(round(3.75))
+print(round(3.59,1))
+n1=3
+n2=5
+print(n1==n2)
+print(n1!=n2)
+print(n1>n2)
+print(n1<n2)
+print(n1<=n2)
+print(n1>=n2)"""
+n='100'
+o='200'
+n=int(n)
+o=int(o)
+print(n+o)
