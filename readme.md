@@ -8,12 +8,18 @@ Welcome to my **Problem Solving** repository! This repository contains my progra
 Problem Solving/
 │
 ├── java/
-│   ├── ...
-│   └── (Java programs and practice)
+│   ├── arrays 
+│   |
+    |── number_programming
+    |
+    |── patterns
+    |
+    |
+    └── Strings
 │
 └── python/
-    ├── ...
-    └── (Python programs and practice)
+    ├── combination of number patterns and strings
+    └── colors 
 ```
 
 > The folder structure will continue to grow as I solve more problems and explore new topics.
