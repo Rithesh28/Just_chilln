@@ -10,12 +10,12 @@ Problem Solving/
 ├── java/
 │   ├── arrays 
 │   |
-    |── number_programming
-    |
-    |── patterns
-    |
-    |
-    └── Strings
+│   |── number_programming
+│   |
+│   |── patterns
+│   |
+│   |
+│   └── Strings
 │
 └── python/
     ├── combination of number patterns and strings
