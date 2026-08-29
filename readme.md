@@ -79,7 +79,7 @@ This repository is created to:
 
 ## 👨‍💻 Author
 
-**Rithesh N**
+**Rithesh N D**
 
 - **GitHub:** https://github.com/Rithesh28
 - **LinkedIn:** https://www.linkedin.com/in/ritheshnekraje/
