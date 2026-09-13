@@ -1,5 +1,8 @@
-string1="Hello"
-string2="Hi"
-string1,string2=string2,string1
-print(string1)
-print(string2)
+a="Hello"
+b="Hi"
+#a,b=b,a
+a = a + b
+b = a[:len(a)-len(b)]
+a = a[len(b):]
+print(a)
+print(b)
