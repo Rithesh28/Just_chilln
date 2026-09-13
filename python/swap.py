@@ -1,5 +1,5 @@
-a="Hello"
-b="Hi"
+a=input("Enter a:")
+b=input("Enter b:")
 #a,b=b,a
 a = a + b
 b = a[:len(a)-len(b)]
