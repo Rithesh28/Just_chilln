@@ -1,9 +1,12 @@
-arr=input("Enter the array")
-c=[]
-count=0
-for i in range(0,len(arr)):
-    if arr[i]%i!=0:
-        c[i]=c[i]+arr[i]
-        count+=1
-    if count>1:
-        print(c[i])
+arr=list(map(int,input("Enter array:").split()))
+for num in arr:
+    if num<2:
+        print(num,end=" ")
+        continue
+    is_prime=True
+    for i in range(2,num):
+        if num%i==0:
+            is_prime=False
+            break
+    if not is_prime:
+        print(num,end=" ")
