@@ -1,6 +1,6 @@
 arr=list(map(int,input("Enter array:").split()))
 for num in arr:
-    if num<2:
+    if num>0 and num<2:
         print(num,end=" ")
         continue
     is_prime=True
