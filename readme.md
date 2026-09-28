@@ -1,12 +1,14 @@
 # 🚀 Problem Solving
 
-Welcome to my **Problem Solving** repository! This repository contains my programming practice and coding exercises in **Java** and **Python**. It serves as a record of my learning journey and helps me strengthen my programming and problem-solving skills.
+Welcome to my **Problem Solving** repository! This repository contains my programming practice and coding exercises in **Java**, **C** and **Python**. It serves as a record of my learning journey and helps me strengthen my programming and problem-solving skills.
 
 ## 📂 Repository Structure
 
 ```
 Problem Solving/
 │
+|── C
+|
 ├── java/
 │   ├── arrays 
 │   |
@@ -28,6 +30,10 @@ Problem Solving/
 
 ## 📚 What You'll Find
 
+### C
+- Number Programming
+- Pattern Programming
+- Arrays
 ### ☕ Java
 - Number Programming
 - Pattern Programming
@@ -55,7 +61,7 @@ This repository is created to:
 
 - Practice programming regularly
 - Improve problem-solving skills
-- Strengthen Java and Python concepts
+- Strengthen C, Java and Python concepts
 - Prepare for coding interviews and placements
 - Track my learning progress
 
@@ -63,6 +69,7 @@ This repository is created to:
 
 ## 🛠️ Languages & Tools
 
+- C
 - Java
 - Python
 - Git
